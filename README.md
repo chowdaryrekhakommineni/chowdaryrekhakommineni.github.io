@@ -1,5 +1,6 @@
 # chowdaryrekhakommineni.github.io
 My personal portfolio website showcasing my skills, projects, and experience as a Salesforce Developer.
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -505,9 +506,10 @@ My personal portfolio website showcasing my skills, projects, and experience as 
           <div>
           <p style="margin:0 0 10px 0"><strong>Phone:</strong> 7901266761</p>
           <p style="margin:0 0 10px 0"><strong>Email:</strong> <a href="mailto:chowdaryrekhakommineni@gmail.com">chowdaryrekhakommineni@gmail.com</a></p>
-          <p style="margin:0 0 10px 0"><strong>Location:</strong> Mangalam, Tirupati — 517507</p>
-        <p style="margin:0 0 8px 0"><strong>GitHub</strong> — <a href="https://github.com/Komminenirekha" target="_blank" rel="noopener">github.com/komminenirekha</a></p>
+          <p style="margin:0 0 8px 0"><strong>GitHub</strong> — <a href="https://github.com/Komminenirekha" target="_blank" rel="noopener">github.com/komminenirekha</a></p>
           <p style="margin:0 0 8px 0"><strong>LinkedIn</strong> — <a href="https://www.linkedin.com/in/kommineni-rekha-chowdary" target="_blank" rel="noopener">linkedin.com/in/kommineni-rekha-chowdary</a></p>
+          <p style="margin:0 0 10px 0"><strong>Location:</strong> Mangalam, Tirupati — 517507</p>
+
         </div>
       
 
