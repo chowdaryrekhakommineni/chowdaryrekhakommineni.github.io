@@ -284,7 +284,9 @@ My personal portfolio website showcasing my skills, projects, and experience as 
           <a class="btn secondary" href="https://drive.google.com/file/d/1Wlxas7qHzKAZUDBNhBPFf6LxrMLMefMG/view?usp=drive_link" target="_blank" rel="noopener">Download Resume</a>
           <a class="btn secondary" href="https://github.com/Komminenirekha" target="_blank" rel="noopener">GitHub</a>
           <a class="btn secondary" href="https://www.linkedin.com/in/kommineni-rekha-chowdary" target="_blank" rel="noopener">LinkedIn</a>
-        </div>
+          <a class="btn secondary" href="mailto:chowdaryrekhakommineni@gmail.com" target="_blank" rel="noopener">Email</a>
+
+ </div>
       </div>
     </section>
 
@@ -321,13 +323,22 @@ My personal portfolio website showcasing my skills, projects, and experience as 
         <!-- Additional internships -->
         <div>
           <div class="exp-item" style="margin-bottom:12px;">
-            <h4>Salesforce Developer Intern</h4>
-            <p class="meta">Salesforce | Aug 2022 – Oct 2022</p>
-            <ul class="clean">
-              <li>Workflow Creation</li>
-              <li>Record Management</li>
-            </ul>
-          </div>
+  <h4>Salesforce Developer Intern</h4>
+  <p class="meta">Salesforce | Aug 2022 – Oct 2022</p>
+
+  <ul class="clean">
+    <li>Workflow Creation</li>
+    <li>Record Management</li>
+  </ul>
+
+  <!-- View My Report Link -->
+  <a href="https://drive.google.com/file/d/1FzrXradssdd0mUGUzk1hSJEgvNRoW_qX/view?usp=drive_link" 
+     target="_blank"
+     style="color:#1e40af; font-weight:600; text-decoration:none; display:inline-block; margin-top:6px;">
+     📄View My Report
+  </a>
+</div>
+
 
           <div class="exp-item">
             <h4>Salesforce Administrator Intern</h4>
@@ -396,19 +407,33 @@ My personal portfolio website showcasing my skills, projects, and experience as 
 
       <div class="grid">
         <div class="exp-item">
-          <h4>Lead Assignment &amp; Auto-Nurture System — Sales Cloud</h4>
-          <ul class="clean">
-            <li>Flows &amp; Validation Rules</li>
-            <li>Reports &amp; Dashboards</li>
-          </ul>
+          <h4>Lead Assignment & Auto-Nurture System — Sales Cloud</h4>
+<ul class="clean">
+  <li>Flows & Validation Rules</li>
+  <li>Reports & Dashboards</li>
+</ul>
+
+<a href="https://drive.google.com/file/d/11bCPdt8c-P0yfCQ57n4YDAj5Phf6i_Cx/view?usp=drive_link"
+   target="_blank"
+   style="color:#1e40af; font-weight:600; text-decoration:none; display:inline-block; margin-top:6px;">
+   📄View My Report
+</a>
+
         </div>
 
         <div class="exp-item">
-          <h4>Case Management &amp; Auto-Escalation — Service Cloud</h4>
-          <ul class="clean">
-            <li>Case Automation</li>
-            <li>Escalation Process</li>
-          </ul>
+          <h4>Case Management & Auto-Escalation — Service Cloud</h4>
+<ul class="clean">
+  <li>Case Automation</li>
+  <li>Escalation Process</li>
+</ul>
+
+<a href="https://drive.google.com/file/d/1sLO5Bp4uKOEs3tcrDTGpSGhtSU0C8Vht/view?usp=drive_link"
+   target="_blank"
+   style="color:#1e40af; font-weight:600; text-decoration:none; display:inline-block; margin-top:6px;">
+   📄View My Report
+</a>
+
         </div>
       </div>
     </section>
@@ -421,20 +446,39 @@ My personal portfolio website showcasing my skills, projects, and experience as 
       <div class="grid two-col">
         <div class="exp-item">
           <h4>Salesforce Developer Intern</h4>
-          <p class="meta">Salesforce | Aug 2022 – Oct 2022</p>
-          <ul class="clean">
-            <li>Workflow Creation</li>
-            <li>Record Management</li>
-          </ul>
+<p class="meta">Salesforce | Aug 2022 – Oct 2022</p>
+
+<ul class="clean">
+  <li>Workflow Creation</li>
+  <li>Record Management</li>
+</ul>
+
+<a class="report-link" 
+   href="https://smartinternz.com/internships/salesforce_certificates/8c19c8f5a3b029dbbb74fa00624201ed" 
+   target="_blank"
+   style="text-decoration:none; color:#1e40af; font-weight:600;">
+   👉 View Certification
+</a>
+
+
         </div>
 
         <div class="exp-item">
           <h4>Salesforce Administrator Intern</h4>
-          <p class="meta">Salesforce | Apr 2023 – May 2023</p>
-          <ul class="clean">
-            <li>User Accounts Management</li>
-            <li>Dashboard and Reports Creation</li>
-          </ul>
+<p class="meta">Salesforce | Apr 2023 – May 2023</p>
+
+<ul class="clean">
+  <li>User Accounts Management</li>
+  <li>Dashboard and Reports Creation</li>
+</ul>
+
+<a class="report-link"
+   href="https://smartinternz.com/internships/salesforce_certificates/f7754be662854988d966e0e317d5553f"
+   target="_blank"
+   style="text-decoration:none; color:#1e40af; font-weight:600;">
+   👉 View Certification
+</a>
+
         </div>
       </div>
     </section>
@@ -449,12 +493,6 @@ My personal portfolio website showcasing my skills, projects, and experience as 
           <h4>B.Com (Computer Applications)</h4>
           <p class="meta">Dr. AER Degree/PG College, Sri Venkateswara University — Sep 2023</p>
           <p style="margin:8px 0 0 0;font-weight:700">CGPA: 8.6</p>
-        </div>
-        <div class="exp-item">
-          <h4>Other Qualifications</h4>
-          <p style="margin:0;color:var(--muted)">(Add more here if needed)</p>
-        </div>
-      </div>
     </section>
 
     <!-- Contact -->
@@ -464,20 +502,16 @@ My personal portfolio website showcasing my skills, projects, and experience as 
 
       <div class="grid two-col">
         <div>
+          <div>
           <p style="margin:0 0 10px 0"><strong>Phone:</strong> 7901266761</p>
           <p style="margin:0 0 10px 0"><strong>Email:</strong> <a href="mailto:chowdaryrekhakommineni@gmail.com">chowdaryrekhakommineni@gmail.com</a></p>
           <p style="margin:0 0 10px 0"><strong>Location:</strong> Mangalam, Tirupati — 517507</p>
-        </div>
-
-        <div>
-          <p style="margin:0 0 8px 0"><strong>GitHub</strong> — <a href="https://github.com/Komminenirekha" target="_blank" rel="noopener">github.com/komminenirekha</a></p>
+        <p style="margin:0 0 8px 0"><strong>GitHub</strong> — <a href="https://github.com/Komminenirekha" target="_blank" rel="noopener">github.com/komminenirekha</a></p>
           <p style="margin:0 0 8px 0"><strong>LinkedIn</strong> — <a href="https://www.linkedin.com/in/kommineni-rekha-chowdary" target="_blank" rel="noopener">linkedin.com/in/kommineni-rekha-chowdary</a></p>
         </div>
-      </div>
+      
 
-      <div style="margin-top:18px;">
-        <a class="btn" href="mailto:chowdaryrekhakommineni@gmail.com">Email Me</a>
-      </div>
+            </div>
     </section>
 
     <footer>
