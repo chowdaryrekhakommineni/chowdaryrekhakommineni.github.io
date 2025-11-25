@@ -283,7 +283,12 @@ My personal portfolio website showcasing my skills, projects, and experience as 
         <div class="hero-actions">
           <a class="btn" href="#contact">Get In Touch</a>
           <a class="btn secondary" href="https://drive.google.com/file/d/1Wlxas7qHzKAZUDBNhBPFf6LxrMLMefMG/view?usp=drive_link" target="_blank" rel="noopener">Download Resume</a>
-          <a class="btn secondary" href="https://github.com/Komminenirekha" target="_blank" rel="noopener">GitHub</a>
+          <a class="btn secondary" 
+   href="https://github.com/chowdaryrekhakommineni" 
+   target="_blank" 
+   rel="noopener">
+   GitHub
+</a>
           <a class="btn secondary" href="https://www.linkedin.com/in/kommineni-rekha-chowdary" target="_blank" rel="noopener">LinkedIn</a>
           <a class="btn secondary" href="mailto:chowdaryrekhakommineni@gmail.com" target="_blank" rel="noopener">Email</a>
 
@@ -506,7 +511,7 @@ My personal portfolio website showcasing my skills, projects, and experience as 
           <div>
           <p style="margin:0 0 10px 0"><strong>Phone:</strong> 7901266761</p>
           <p style="margin:0 0 10px 0"><strong>Email:</strong> <a href="mailto:chowdaryrekhakommineni@gmail.com">chowdaryrekhakommineni@gmail.com</a></p>
-          <p style="margin:0 0 8px 0"><strong>GitHub</strong> — <a href="https://github.com/Komminenirekha" target="_blank" rel="noopener">github.com/komminenirekha</a></p>
+          <p style="margin:0 0 8px 0"><strong>GitHub</strong> — <a href="https://github.com/chowdaryrekhakommineni" target="_blank" rel="noopener">github.com/chowdaryrekhakommineni</a></p>
           <p style="margin:0 0 8px 0"><strong>LinkedIn</strong> — <a href="https://www.linkedin.com/in/kommineni-rekha-chowdary" target="_blank" rel="noopener">linkedin.com/in/kommineni-rekha-chowdary</a></p>
           <p style="margin:0 0 10px 0"><strong>Location:</strong> Mangalam, Tirupati — 517507</p>
 
