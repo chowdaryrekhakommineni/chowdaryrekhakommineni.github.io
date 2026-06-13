@@ -247,7 +247,7 @@ My personal portfolio website showcasing my skills, projects, and experience as 
       </nav>
 
       <div class="cta">
-        <a class="btn" href="https://drive.google.com/file/d/1Wlxas7qHzKAZUDBNhBPFf6LxrMLMefMG/view?usp=drive_link" target="_blank" rel="noopener">Download Resume</a>
+        <a class="btn" href="https://drive.google.com/file/d/1ZHIqu6Ihl66QU_FCRy2ImHXWcKEVpajt/view?usp=drive_link" target="_blank" rel="noopener">Download Resume</a>
         <div class="hamburger" id="hamburger" aria-label="Menu" title="Menu">
           <svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="18" height="2" rx="1" fill="#0f172a"/><rect y="5" width="18" height="2" rx="1" fill="#0f172a"/><rect y="10" width="18" height="2" rx="1" fill="#0f172a"/></svg>
         </div>
@@ -282,7 +282,7 @@ My personal portfolio website showcasing my skills, projects, and experience as 
         <div class="tagline">Salesforce Developer | 2+ years at Bruhashith OPC Pvt Ltd — Apex, LWC, Flows.</div>
         <div class="hero-actions">
           <a class="btn" href="#contact">Get In Touch</a>
-          <a class="btn secondary" href="https://drive.google.com/file/d/1Wlxas7qHzKAZUDBNhBPFf6LxrMLMefMG/view?usp=drive_link" target="_blank" rel="noopener">Download Resume</a>
+          <a class="btn secondary" href="https://drive.google.com/file/d/1ZHIqu6Ihl66QU_FCRy2ImHXWcKEVpajt/view?usp=drive_link" target="_blank" rel="noopener">Download Resume</a>
           <a class="btn secondary" 
    href="https://github.com/chowdaryrekhakommineni" 
    target="_blank" 
